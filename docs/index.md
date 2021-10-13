@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+213312IADB
 
-You can use the [editor on GitHub](https://github.com/Olariunderscore/olari.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2>Kontrolltööde vahetulemused</h2>
 
-### Markdown
+<table style="width:20%">
+  <tr>
+    <td>1.nädal</td>
+    <td>2.nädal</td>
+    <td>3.nädal</td>
+    <td>4.nädal</td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+</table>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>
+Siin ma siis üritan teha mingisugust algelist veebilehte githubi abil. Ülesanne tundub äärmiselt raske eriti arvestades punktisummat, mis selle eest pakutakse, sest varasem programmeerimiskogemus täiesti puudub.
+</p>
 
-```markdown
-Syntax highlighted code block
+<h2>TalTech</h2>
 
-# Header 1
-## Header 2
-### Header 3
+<p>
+Tallinna Tehnikaülikool (TalTech) on Eesti kõige uuendusmeelsem ülikool ja jätkusuutliku digituleviku teerajaja. Teaduse, tehnoloogia ja innovatsiooni eestvedajana toob TalTech kokku teadlasi, üliõpilasi ja ettevõtjaid tervest maailmast. Ligi 10 000-st üliõpilasest 16% on pärit enam kui 100 erinevast riigist, mis teeb TalTechist kõige rahvusvahelisema ülikooli Eestis.
+</p>
 
-- Bulleted
-- List
+<p>
+Tervet ülikooli hõlmav initsiatiiv TalTechDigital toob ellu uusi digilahendusi õppimisse, teaduse tegemisse ning ülikoolilinnakusse laiemalt. 2020.a. loodud Targa linna tippkeskus koondab ülikooli juurde nutikate linnaruumi lahenduste tippkompetentsi ja teeb TalTechi kompaktsest ja kaunist linnakust lähitulevikus ühe kõige nutikama kampuse maailmas.
+</p>
 
-1. Numbered
-2. List
+<a href="https://taltech.ee/">TalTech koduleht</a>
 
-**Bold** and _Italic_ and `Code` text
+<img src="https://haldus.taltech.ee/sites/default/files/styles/slideshow_wide/public/2021-07/Untitled_36.jpg?itok=QNH9EdVX" alt="Droonipilt TalTechist">
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Olariunderscore/olari.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>

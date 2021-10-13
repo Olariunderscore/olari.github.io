@@ -5,7 +5,7 @@
 
 <h2>Kontrolltööde vahetulemused</h2>
 
-<table style="width:20%">
+<table style="width:100%">
   <tr>
     <td>1.nädal</td>
     <td>2.nädal</td>

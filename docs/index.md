@@ -1,6 +1,5 @@
 213312IADB
 
-<!DOCTYPE html>
 <html>
 <body>
 
